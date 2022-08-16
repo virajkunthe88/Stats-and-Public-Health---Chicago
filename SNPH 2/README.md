@@ -3,40 +3,10 @@ Class Project for Brainstation - The city of Chicago, Illinois has been keeping 
 
 You are given mosquito tracking data from 2008 to 2019.
 
+For this deliverable, you must use the provided cleaned dataset which differs from that for Part 1.
+
 ----------------------------------------------------------------------------------------
 Answer a few business questions based on the usage data provided
-
-DELIVERABLE 1
-
-Part 1 - Basic Data Wrangling
-
-    What is the shape of the dataframe?
-
-    Convert the 'Date' column to have a datetime format.
-
-    Pick two numeric and two categorical columns: What data they are storing? How are they distributed?
-
-    Are there any columns that contain duplicate information? If so, remove the redundant columns.
-
-    Are there any null values in the dataframe? If so, deal with them appropriately.
-
-Part 2 - Basic EDA
-
-    Using an appropriate visual, or visuals, explore the relationship between mosquito number and date.
-
-Part 3 - Advanced EDA
-
-    Using an appropriate visual, explore the relationship between mosquito species and WNV prevalence.
-
-    Using an appropriate visual, explore the relationship between the number of mosquitos caught and trap type.
-    Note: This visual should be a different type of visualization than the previous one
-
-    Using an appropriate visual, come up with an additional insight of your choice.
-    Note: This visual should be a different type of visualization than the previous two
-
-----------------------------------------------------------------------------------------
-
-DELIVERABLE 2
 
 
 Part 1 - Basic Analysis
@@ -63,9 +33,13 @@ Part 3 - Advanced Statistical Analysis
     Note: Mosquito number should be one of your independent variables.
 
 
-
 ----------------------------------------------------------------------------------------
 
-SNPH_1_VIRAJ_KUNTHE.ipynb
+SNPH_2_VIRAJ_KUNTHE.ipynb
 
-Code to answer the above questions
+- Code required to answer the above questions.
+
+mosquito_data_part_2.csv
+
+- Provided clean data.
+
